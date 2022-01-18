@@ -1,12 +1,14 @@
 {
-    "395758956091277315": {
-      "job": "Invader",
-      "pets": "gir",
-      "monies": 10000
-    },
-    "600707283097485322": {
-      "job": "navigator",
-      "pets": "sir",
-      "monies": 9999
+    "users": {
+      "395758956091277315": {
+        "job": "Invader",
+        "pets": "gir",
+        "monies": 10000
+      },
+      "600707283097485322": {
+        "job": "navigator",
+        "pets": "sir",
+        "monies": 9999
+      }
     }
-  }
+}
