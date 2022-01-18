@@ -1,0 +1,23 @@
+{
+  "name": "gir-api",
+  "version": "1.0.0",
+  "description": "The best and fastest database in the universe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheOreoTM/gir-api.git"
+  },
+  "author": "Gir-Unit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheOreoTM/gir-api/issues"
+  },
+  "homepage": "https://github.com/TheOreoTM/gir-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
